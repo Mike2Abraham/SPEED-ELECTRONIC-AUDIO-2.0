@@ -20,7 +20,7 @@ Windows 8/10
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPeeD/SPEED.INSTALL.v1.8.zip
 @@@@
 ####
-SPEED Madre v1.0.26
+SPEED Madre2 v1.0.26
 Subido el: 01/05/2024
 Tamaño: 144MB
 Soporte: Windows 8/10
