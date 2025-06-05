@@ -7,7 +7,7 @@ Esta versión incluye:
 - Soporte para 20+ formatos
 - Interfaz rediseñada
 - Corrección de bugs críticos
-link: https://github.com/tuusuario/repo/releases/v2.0.zip
+link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPeeD/SPEED.INSTALL.v1.8.zip
 @@@@
 ####
 SPEED MULTIMEDIA v1.0.90
