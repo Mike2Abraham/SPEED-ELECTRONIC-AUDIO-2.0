@@ -1,8 +1,9 @@
 ####
 SPEED MULTIMEDIA v1.8.20
-Subido el: 15/06/2025
-Tamaño: 194MB
+Subido el: Fecha de Subida: 22/05/2025
+Tamaño: Tamaño: 194MB
 Soporte: Windows 10/11
+Windows 10/11
 - Soporte para 20+ formatos
 - Grabadora de voz
 - Convertidor de Audio
@@ -14,9 +15,10 @@ Soporte: Windows 10/11
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPeeD/SPEED.INSTALL.v1.8.zip
 ####
 SPEED MULTIMEDIA v1.0.90 (PARCHE)
-Subido el: 01/05/2025
-Tamaño: 33MB
+Subido el: Fecha de Subida: 29/04/2025
+Tamaño: Tamaño: 33MB
 Soporte: Windows 10/11
+Windows 10/11
 - Confirmacion antes de renombrar y eliminar
 - Canvas para Visualizador de Audio
 - Soporte de Mic 
@@ -26,9 +28,10 @@ Soporte: Windows 10/11
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.90/SPEED.MULTIMEDIA.v1.0.90.zip
 ####
 SPEED MULTIMEDIA v1.0.26
-Subido el: 01/05/2025
-Tamaño: 144MB
+Subido el: Fecha de Subida: 25/04/2025
+Tamaño: Tamaño: 144MB
 Soporte: Windows 8/10
+Windows 8/10
 Mejoras en:
 - Rendimiento en HD
 - codec para AVI
