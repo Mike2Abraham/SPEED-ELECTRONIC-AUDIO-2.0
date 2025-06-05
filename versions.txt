@@ -11,10 +11,10 @@ link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/downlo
 @@@@
 ####
 SPEED MULTIMEDIA v1.0.90
-fecha 01/05/2024
-tamaño 33MB
-soporte Windows 8/10
-...descripcion
+01/05/2024
+33MB
+Windows 8/10
+
 - Rendimiento en HD
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPeeD/SPEED.INSTALL.v1.8.zip
