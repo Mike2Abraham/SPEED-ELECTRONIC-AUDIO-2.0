@@ -1,7 +1,7 @@
 ####
-Parche de Actualización SPEED MULTIMEDIA v1.9.52
+Parche v1.9.52 de Actualización SPEED MULTIMEDIA v1.9.52
 Subido el: Fecha de Subida: 01/06/2025
-Tamaño: Tamaño: 194MB
+Tamaño: Tamaño: 49MB
 Soporte: Windows 10/11
 Windows 10/11
 - Se repararon varios bugs y errores criticos
