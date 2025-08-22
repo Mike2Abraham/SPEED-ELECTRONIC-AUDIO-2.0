@@ -1,8 +1,8 @@
 ####
-Reproductor SPM Video-Audio (para Windows Nativo)
+Reproductor SPM v2.1 (para Windows Nativo)
 Subido el: Fecha de Subida: 21/08/2025
 Tamaño: Tamaño: 101MB
-Soporte: Windows 10/11
+Soporte: Windows 10/11 64bit
 Windows 10/11
 - Este reproductor de Audio y Video es para complementar SPEED trabja en conjunto con la app pero es independiente
 - El reproductor de Video ya No se bugea
@@ -17,7 +17,7 @@ link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/downlo
 Reproductor SPM Video-Audio (para Windows Nativo)
 Subido el: Fecha de Subida: 13/08/2025
 Tamaño: Tamaño: 100MB
-Soporte: Windows 10/11
+Soporte: Windows 10/11 64bit
 Windows 10/11
 - Este reproductor de Audio y Video es para complementar SPEED trabja en conjunto con la app pero es independiente
 - El reproductor de Video lee subtitulos .srt y .vtt localmente por ahora y debes adjuntarlo
@@ -32,7 +32,7 @@ link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/downlo
 Parche v1.9.52 de Actualización SPEED MULTIMEDIA v1.9.52
 Subido el: Fecha de Subida: 01/06/2025
 Tamaño: Tamaño: 49MB
-Soporte: Windows 10/11
+Soporte: Windows 10/11 64bit
 Windows 10/11
 - Se repararon varios bugs y errores criticos
 - El reproductor de Video lee subtitulos .srt y .vtt localmente por ahora y debes adjuntarlo
@@ -47,7 +47,7 @@ link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/downlo
 SPEED MULTIMEDIA v1.8.20
 Subido el: Fecha de Subida: 22/05/2025
 Tamaño: Tamaño: 194MB
-Soporte: Windows 10/11
+Soporte: Windows 10/11 64bit
 Windows 10/11
 - Soporte para 20+ formatos
 - Grabadora de voz
@@ -62,7 +62,7 @@ link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/downlo
 SPEED MULTIMEDIA v1.0.90 (PARCHE)
 Subido el: Fecha de Subida: 29/04/2025
 Tamaño: Tamaño: 33MB
-Soporte: Windows 10/11
+Soporte: Windows 10/11 64bit
 Windows 10/11
 - Confirmacion antes de renombrar y eliminar
 - Canvas para Visualizador de Audio
@@ -75,7 +75,7 @@ link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/downlo
 SPEED MULTIMEDIA v1.0.26
 Subido el: Fecha de Subida: 25/04/2025
 Tamaño: Tamaño: 144MB
-Soporte: Windows 8/10
+Soporte: Windows 8/10 64bit
 Windows 8/10
 Mejoras en:
 - Rendimiento en HD
@@ -83,6 +83,7 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
 
 
