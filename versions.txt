@@ -1,3 +1,17 @@
+Reproductor SPM Video-Audio (para Windows Nativo)
+Subido el: Fecha de Subida: 21/08/2025
+Tamaño: Tamaño: 101MB
+Soporte: Windows 10/11
+Windows 10/11
+- Este reproductor de Audio y Video es para complementar SPEED trabja en conjunto con la app pero es independiente
+- El reproductor de Video ya No se bugea
+- Lee todos los formatos de audio
+- usa apenas 20MB de RAM (antes en pc de viejo recursos fallaba y consumia 3GB probocando pantallazo azul eso esta solucionado)
+- (ojo no lee ni AVI ni WMV ni RMBV)
+- Interfaz Mejorada y animaciones suaves
+- Modo Isla Dinamica mejorada y ya lee cover de las MP3
+- Esta app es independiente y no necesita de nada para funcionar... usted solo lo instala y comienza a usarlo con Abrir con en Windows
+link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPM-subv2.1/SPM-lanzador.Setup.2.0.52.7z
 ####
 Reproductor SPM Video-Audio (para Windows Nativo)
 Subido el: Fecha de Subida: 13/08/2025
@@ -68,4 +82,5 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
