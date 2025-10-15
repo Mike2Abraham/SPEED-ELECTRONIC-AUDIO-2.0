@@ -12,6 +12,7 @@ Windows 10/11
 - Convertidor de Video
 - Modo Isla Dinamica mejorada y ya lee cover de las MP3
 - Ya tiene modo CINE puedes ver poster nombre descripciones y sinopcis de series peliculas y videos
+Version: 2.2
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPM-sub2.2/SPEED.v2.2.0.7z
 ####
 Reproductor SPM v2.1 (para Windows Nativo)
@@ -98,6 +99,7 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
 
 
