@@ -1,4 +1,20 @@
 ####
+Reproductor SPM v2.4 (Parche de Actualización)
+Subido el: Fecha de Subida: 15/10/2025
+Tamaño: Tamaño: 131MB
+Soporte: Windows 10/11 64bit
+Windows 10/11
+- Soporte de Imagenes y edicion mejorado
+- El reproductor de Video ya Tiene Bloc y Comentarios
+- Descarga y suma de sustitulos y karaoke para Audio en automatico y manual
+- Mejora en Rendimiento (Menos consumo de GPU)
+- (ojo no lee ni AVI ni WMV ni RMBV)
+- Convertidor de Video (Mejorado BUG en ts)
+- LEctura automatica de Sustitulos de Video local
+- Ya tiene modo CINE puedes ver poster nombre descripciones y detalles de series peliculas y videos
+Version: 2.4
+link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.4/SPEEDv2.4.0.7z
+####
 Reproductor SPM v2.2 (para Windows Nativo)
 Subido el: Fecha de Subida: 28/09/2025
 Tamaño: Tamaño: 161MB
@@ -99,6 +115,7 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
 
 
