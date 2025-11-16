@@ -8,7 +8,7 @@ Windows 10/11
 - Mejora en Rendimiento (Menos consumo de GPU)
 - (ojo no lee ni AVI ni WMV ni RMBV)
 - Convertidor de Video (Mejorado BUG en ts)
-Version: 2.7
+Version: 2.6
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.5/SPEED.v2.5.0.7z
 ####
 Reproductor SPM v2.4 (Parche de Actualización)
@@ -127,6 +127,7 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
 
 
