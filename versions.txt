@@ -1,4 +1,26 @@
 ####
+Reproductor SPM v2.6 (Intalador completo)
+Subido el: Fecha de Subida: 24/11/2025
+Tamaño: Tamaño: 121MB
+Soporte: Windows 10/11 64bit
+Windows 10/11
+- Multiples errores encontrados en 2.5 y arreglados
+- Mejora en Rendimiento (Menos consumo de GPU y un toque mas de minimalismo) 
+- Reproductor de Video Mejorado (ojo ya lee AVI, WMV, RMBV y 64 formatos mas)
+- Reproductor de Video (Poder ver formatos y edicion de anotacion por frames integracion de api para sustitulos)
+- Reproductor de Video (Sugerencias de Peliculas segun sus gustos)
+- Reproductor de Video (Captura de pantallas libro de anotacion redimencionamiento y otras mejoras mas)
+- Para el explorador, Ya puedes navegader en mis documentos! tambien puedes hacer busquedas en todo el pc
+- Para la lista, Ya existe las lista personalizadas, prueba y crea cuanto quieras!
+- Para el visualizador (5 tipos de ondas diferentes q puedes usar a tu antojo! si no te decides elige aleatoreo) en ajustes esta!
+- Arreglo visual, bordes toda la app fue remodelada!!
+- Para Tables de poco recursos o pc antigos opciones de poco recursos, asi la app volara en sus pcs viejitos tambien!!
+- Nueva barra de notificacion nativa (para ver audio actual y la metadata) y sistema de favoritos implementado en ella
+- Para Gestion de Backup (puedes crear y gestionar backup de todo lo q hace la aplicacion)
+- Para la integracion de windows y iconos mejorado
+Version: 2.6
+link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.6/64SPEED.v2.6.0.zip
+####
 Reproductor SPM v2.5 (Intalador completo)
 Subido el: Fecha de Subida: 18/10/2025
 Tamaño: Tamaño: 165MB
@@ -8,7 +30,7 @@ Windows 10/11
 - Mejora en Rendimiento (Menos consumo de GPU)
 - (ojo no lee ni AVI ni WMV ni RMBV)
 - Convertidor de Video (Mejorado BUG en ts)
-Version: 2.6
+Version: 2.5
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.5/SPEED.v2.5.0.7z
 ####
 Reproductor SPM v2.4 (Parche de Actualización)
@@ -127,6 +149,7 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
 
 
