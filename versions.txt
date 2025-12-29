@@ -1,4 +1,27 @@
 ####
+Reproductor SPM v2.7.0 (64 bits)
+Subido el: 24/11/2025
+Tamaño: 179 MB
+Soporte: Windows 8, 10 y 11 (64 bits)
+- Arreglados múltiples bugs de la v2.6
+- Galería integrada: escanea todo el PC (fotos por ruta, fecha, GPS) + editor rápido (recortar, efectos)
+- Reproductor de video mejorado: Dual Audio, subtítulos integrados, MKV optimizado hasta 4K (bajo consumo, sin bloqueos)
+- Nuevos formatos: AAC, FLAC, GIF animado
+- Convertidor remodelado: convierte audio y video, soporta subtítulos (internos, locales, hardcoded) y Dual Audio con detección de idioma
+- El convertidor organiza conversiones por carpetas/géneros y evita duplicados (sin configuración previa)
+- Reproductor de audio: corregidos cierres y congelamientos al cargar archivos con historial corrupto
+- Edición de subtítulos en modo karaoke (línea por línea, ideal para traducir)
+- Nuevo módulo de propiedades: codec, peso, miniatura, GPS, tiempo, etc.
+- Usa solo 170 MB de RAM; carga +8000 canciones con metadatos (meta: 10,000)
+- Calculadora con modo claro/oscuro
+- Favoritos integrados en todo el reproductor de audio
+- 5 estilos de visualizador de audio
+- Dock/widget flotante para controlar audio (y video en beta) sin abrir la app
+- Optimizado para PCs antiguos
+- Actualización automática, backup completo y mejor integración con Windows
+Versión: 2.7.0
+link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.7/SPM-lanzador.Setup.2.7.0.exe
+####
 Reproductor SPM v2.6 (32bits)
 Subido el: Fecha de Subida: 24/11/2025
 Tamaño: Tamaño: 121MB
@@ -173,6 +196,7 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
 
 
