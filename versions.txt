@@ -1,6 +1,6 @@
 ####
 Reproductor SPM v2.7.0 (64 bits)
-Subido el: 24/11/2025
+Subido el: Fecha de Subida: 30/12/2025
 Tamaño: 179 MB
 Soporte: Windows 8, 10 y 11 (64 bits)
 - Arreglados múltiples bugs de la v2.6
@@ -27,7 +27,7 @@ Subido el: Fecha de Subida: 24/11/2025
 Tamaño: Tamaño: 121MB
 Soporte: Windows 10/11 32bits
 Windows 10/11
-- Multiples errores encontrados en 2.5 y arreglados
+- Multiples errores encontrados en 2.6 y arreglados
 - Mejora en Rendimiento (Menos consumo de GPU y un toque mas de minimalismo) 
 - Reproductor de Video Mejorado (ojo ya lee AVI, WMV, RMBV y 64 formatos mas)
 - Reproductor de Video (Poder ver formatos y edicion de anotacion por frames integracion de api para sustitulos)
@@ -196,6 +196,7 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
 
 
