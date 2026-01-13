@@ -1,0 +1,12 @@
+{
+  "descargas": [
+    {
+      "nombre": "Xenova",
+      "tamano": "109 MB",
+      "fecha": "13/1/2026",
+      "version": "1.0.0",
+      "link": "https://ejemplo.com/descarga",
+      "utilidad": "Modulo de traduccón potenciado con IA.. Oye, un detalle importante: este contenido no es mío, solo lo comparto porque es gratuito. Agradece al creador original y dale crédito donde corresponda. Lo que hagas con esto es bajo tu responsabilidad, no me relaciones con ningún uso que le des. ¡Disfrútalo! 😊"
+    }
+  ]
+}
