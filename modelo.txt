@@ -1,7 +1,7 @@
 {
   "descargas": [
     {
-      "nombre": "Xenova",
+      "nombre": "Xenova.exe",
       "tamano": "109 MB",
       "fecha": "13/1/2026",
       "version": "1.0.0",
