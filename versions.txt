@@ -20,7 +20,7 @@ Soporte: Windows 8, 10 y 11 (64 bits)
 - Optimizado para PCs antiguos
 - Actualización automática, backup completo y mejor integración con Windows
 Versión: 2.7.0
-link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.7/SPM-lanzador.Setup.2.7.0.exe
+link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.7/64bits.Setup.2.7.0.rar
 ####
 Reproductor SPM v2.6 (32bits)
 Subido el: Fecha de Subida: 24/11/2025
@@ -196,6 +196,7 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
 
 
