@@ -1,3 +1,19 @@
+Reproductor SPM v2.8.0 (64 bits)
+Subido el: Fecha de Subida: 22/02/2026
+Tamaño: 200 MB
+Soporte: Windows 8, 10 y 11 (64 bits)
+Windows 10/11
+-Traducción con IA local integrada: traduce del inglés al español (sin conexión, sin límites, 100% privado); próximamente más idiomas
+-Convertidor de video mejorado: muestra miniaturas en tiempo real del proceso y calcula el espacio necesario antes de comenzar; corregidos bugs de bitrate
+-Ventana de subtítulos para audio rediseñada: edición avanzada, gestión local, búsqueda en internet en 2 clics, guardado en PC, traducción automática y soporte para emojis
+-Optimización de rendimiento en entrada de audio: carga +10,000 canciones al instante sin bloqueos de interfaz
+-Consumo de RAM optimizado: ~300 MB en modo estándar (64 bits)
+-Ventana de propiedades mejorada: acceso rápido y detalles técnicos precisos desde cualquier parte de la app
+-Nuevo logotipo y ajustes visuales menores para mayor coherencia estética
+-Sistema de karaoke completo: ventana a pantalla completa, sincronización precisa con la música, personalización de letras y colores
+-Soporte para pantallas secundarias + control remoto vía red desde la ventana de notificaciones (Sistema Centralizado de Control SPEED)
+Versión: 2.8.0
+link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.81/64bits.Setup.2.8.0.rar
 ####
 Reproductor SPM v2.7.0 (64 bits)
 Subido el: Fecha de Subida: 30/12/2025
@@ -196,6 +212,7 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
 
 
